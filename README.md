@@ -1,5 +1,5 @@
 # DATE:
-# Gaussian Elimination
+# EXP-6: Gaussian Elimination
 
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
